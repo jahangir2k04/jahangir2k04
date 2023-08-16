@@ -24,5 +24,7 @@ I have been interested in programming since my childhood. So I learned web devel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir2k04)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahangir2k04&show_icons=true&count_private=true)  
 
