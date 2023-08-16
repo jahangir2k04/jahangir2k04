@@ -13,8 +13,8 @@ I have been interested in programming since my childhood. So I learned web devel
 - **Soft Skills:**  Googling, Good Communication, Reliable, Consistency.
 
 ## Connect With ME: 
-📧 **Email:** jahangir2k04@gmail.com
-📞 **Phone:** +8801629642849
+📧 **Email:** jahangir2k04@gmail.com </br>
+📞 **Phone:** +8801629642849</br>
 🌏 **Portfolio:** https://portfolio-d4929.web.app/
 ### Social: 
 
