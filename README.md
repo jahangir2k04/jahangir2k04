@@ -12,8 +12,11 @@ I have been interested in programming since my childhood. So I learned web devel
 - **Tools:** Firebase, Git, Netlify, Vercel, React Dev tool, and Github.
 - **Soft Skills:**  Googling, Good Communication, Reliable, Consistency.
 
-- 🌱 I’m currently learning Next.js, TypeScript, Redux 
-- 📫 How to reach me: jahangir2k04@gmail.com 
+## Connect With ME: 
+📧 **Email:** jahangir2k04@gmail.com
+📞 **Phone:** +8801629642849
+🌏 **Portfolio:** https://portfolio-d4929.web.app/
+### Social: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangir2k04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangir-alam-2k2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/3jahangiralam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-d4929.web.app/)  
