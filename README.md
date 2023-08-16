@@ -16,7 +16,7 @@ I have been interested in programming since my childhood. So I learned web devel
 📧 **Email:** jahangir2k04@gmail.com </br>
 📞 **Phone:** +8801629642849</br>
 🌏 **Portfolio:** https://portfolio-d4929.web.app/
-#### Social: 
+**Social:**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangir2k04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangir-alam-2k2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/3jahangiralam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-d4929.web.app/)  
