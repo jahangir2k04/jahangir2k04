@@ -1,13 +1,12 @@
-![MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQE6LcvHTzGW0A/profile-displaybackgroundimage-shrink_350_1400/0/1691586818159?e=1697673600&v=beta&t=JS8AViLai2WBpC4TJ4uu4oXbJ93HXmyhItrl_07JvXQ)
+![MERN Stack Developer](https://i.ibb.co/mTzpF4f/linked-In-banner.png)
 
-### Hi there 👋, Hi, I'm Jahangir Alam
+## Hi there 👋, Hi, I'm Jahangir Alam
 #### MERN Stack Developer
 
-Hi, I'm Jahangir Alam. I have been interested in programming since my childhood. So I learned web development. I have been working with MERN stack technologies since January , 2023 and have a solid foundation in MERN stack ( React.js, Node.js, Express.js, and MongoDB ) technologies. I'm committed to continuous learning, collaboration, and delivering awesome web applications with optimizing performance.
+I have been interested in programming since my childhood. So I learned web development. I have been working with MERN stack technologies since January , 2023 and have a solid foundation in MERN stack ( React.js, Node.js, Express.js, and MongoDB ) technologies. I'm committed to continuous learning, staying with latest technologies, collaboration, and delivering awesome web applications with optimizing performance.
 
-Skills: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js and MongoDB.
+<ins> Skills: </ins> HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js, Firebase and MongoDB.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next.js, TypeScript, Redux 
 - 📫 How to reach me: jahangir2k04@gmail.com 
 
