@@ -5,7 +5,8 @@
 
 I have been interested in programming since my childhood. So I learned web development. I have been working with MERN stack technologies since January , 2023 and have a solid foundation in MERN stack ( React.js, Node.js, Express.js, and MongoDB ) technologies. I'm committed to continuous learning, staying with latest technologies, collaboration, and delivering awesome web applications with optimizing performance.
 
-<ins> Skills: </ins> HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js, Firebase and MongoDB.
+## Skills: 
+HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js, Firebase and MongoDB.
 
 - 🌱 I’m currently learning Next.js, TypeScript, Redux 
 - 📫 How to reach me: jahangir2k04@gmail.com 
