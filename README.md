@@ -19,7 +19,7 @@ I have been interested in programming since my childhood. So I learned web devel
 🔗 **Social Link:**
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangir2k04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangir-alam-2k2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/3jahangiralam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-d4929.web.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangir2k04)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangir-alam-2k2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/3jahangiralam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-d4929.web.app/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir2k04)](https://github.com/anuraghazra/github-readme-stats)
 
