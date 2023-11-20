@@ -22,7 +22,8 @@ I have been interested in programming since my childhood. So I learned web devel
 [<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangir-alam-2k2/)
 [<img src='https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png' alt='facebook' height='40'>](https://www.facebook.com/3jahangiralam) 
 
+## Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir2k04)](https://github.com/anuraghazra/github-readme-stats)
 
+## Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jahangir2k04&show_icons=true&count_private=true)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahangir2k04&show_icons=true&theme=transparent)
