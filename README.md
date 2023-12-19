@@ -1,6 +1,6 @@
 ![MERN Stack Developer](https://i.ibb.co/mTzpF4f/linked-In-banner.png)
 
-## Hi there 👋, Hi, I'm Jahangir Alam
+## Hi there 👋, I'm Jahangir Alam
 #### MERN Stack Developer
 
 I have been interested in programming since my childhood. So I learned web development. I have been working with MERN stack technologies since January , 2023 and have a solid foundation in MERN stack ( React.js, Node.js, Express.js, and MongoDB ) technologies. I'm committed to continuous learning, staying with latest technologies, collaboration, and delivering awesome web applications with optimizing performance.
